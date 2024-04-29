@@ -1,3 +1,3 @@
 # Projects
-Download the files to view as a rendered .html file in your browser. Or preview the .ipynb file.
-Personal Projects to test and strengthen my code. Centered around common machine learning concepts.
+Personal Projects to test and strengthen my code. Centered around common machine learning concepts from my machine learning and advanced machine learning course.
+Various Regression and Classification Tasks that include models ranging from XGBoost to Neural Networks in various scenarios.
